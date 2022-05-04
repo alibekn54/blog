@@ -12,4 +12,15 @@ class Post(models.Model):
         return self.title
 
 
+class Book(models.Model):
+    title = models.CharField(max_length=100)
+    author = models.CharField(max_length=60)
 
+    def __str__(self):
+        return self.title
+
+
+class User(models.Model):
+    username = models.CharField(max_length=30)
+    password = models.CharField(max_length=30)
+    email = models.EmailField(max_length=254)
