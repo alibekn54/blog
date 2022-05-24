@@ -1,11 +1,14 @@
 <!-- templates/home.html -->
 {% extends 'base.html' %}
-
 {% block content %}
+<a href="{% url 'new_post' %}" class="createpost">Create new POST.</a>
+<a href=""></a>
   {% for post in object_list %}
-    <div class="post-entry">
+
+    <div class="post">
       <h2><a href="{% url 'post_detail' post.pk %}">{{ post.title }}</a></h2>
       <p>{{ post.body }}</p>
+
     </div>
   {% endfor %}
 {% endblock content %}

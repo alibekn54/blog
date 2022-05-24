@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b369a827-fa3d-4d98-b74e-29e8d85c83a4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../accounts/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../static/css/detail.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/registration/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/../admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../models.py" beforeDir="false" afterPath="$PROJECT_DIR$/../models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/css/base.css" beforeDir="false" afterPath="$PROJECT_DIR$/../static/css/base.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/post_detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/post_detail.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blog_project/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../blog_project/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blog_project/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../blog_project/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/../../db.sqlite3" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="29VCXaHmBCn00W2L7Wka1rgkB1l" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/Asus/Desktop/blog"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b369a827-fa3d-4d98-b74e-29e8d85c83a4" name="Changes" comment="" />
+      <created>1653188905219</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1653188905219</updated>
+      <workItem from="1653188906400" duration="24000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

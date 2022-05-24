@@ -1,6 +1,7 @@
 from django.db import models
 
 # Create your models here.
+from django.urls import reverse
 
 
 class Post(models.Model):
@@ -11,6 +12,9 @@ class Post(models.Model):
     def __str__(self):
         return self.title
 
+    def get_absolute_url(self):
+        return reverse('post_detail', args=[str(self.id)])
+
 
 class Book(models.Model):
     title = models.CharField(max_length=100)
@@ -20,7 +24,3 @@ class Book(models.Model):
         return self.title
 
 
-class User(models.Model):
-    username = models.CharField(max_length=30)
-    password = models.CharField(max_length=30)
-    email = models.EmailField(max_length=254)
